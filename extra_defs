@@ -1,0 +1,10 @@
+TF2             EQU     0CFH
+TH2             EQU    0CDH
+TL2             EQU    0CCH
+RCAP2H          EQU    0CBH
+RCAP2L          EQU    0CAH
+T2CON           EQU    0C8H
+T2              EQU     090H
+T2EX            EQU     091H
+TR2             EQU     0CAH
+T3              EQU     0FFH
